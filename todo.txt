@@ -1,8 +1,8 @@
 - paranna palvelinta
-    - routes x
+    - routes x  
     - env.port x
-- lisää react
-- git
-- build
-- deploy to heroku
+- lisää react x
+- git x
+- build 
+- deploy to heroku x
 - how to use .env in heroku?
